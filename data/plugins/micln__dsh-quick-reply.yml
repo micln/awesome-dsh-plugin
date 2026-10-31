@@ -1,0 +1,6 @@
+url: https://github.com/micln/dsh-quick-reply
+name: micln/dsh-quick-reply
+category: ui
+description:
+  en: "Composer-dock button that sends a saved phrase into the current session in one click; up to 20 phrases of 2000 characters each are kept in the browser's localStorage, and a phrase may carry a `/skill-name` reference chosen from the current session's skill list."
+  zh: "输入区停靠按钮：点一下把一条已保存的短语发到当前会话；短语保存在浏览器 localStorage 里（最多 20 条，每条 2000 字符），短语中可以写 `/技能名` 并从当前会话的技能列表里选择。"
